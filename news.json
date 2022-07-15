@@ -12,10 +12,15 @@
     "link" : "https://ge.globo.com/futebol/futebol-feminino/copa-america-feminina/noticia/2022/07/12/copa-america-feminina-argentina-goleia-peru-e-consegue-primeira-vitoria-no-torneio.ghtml"
   },
   {
-  
     "title": "COPA AMÉRICA FEMININA",
     "description": "Seleção feminina vence o Uruguai e assume liderança isolada do Grupo B",
     "image" : "https://s2.glbimg.com/GFyWCpgj5EhDGKnnI75wXNkZiwE=/0x0:3202x2138/640x360/smart/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/z/0/BSAOO3SOOVhT2rxtWTBw/52212400221-e24e68e4e7-o.jpg",
     "link" : "https://ge.globo.com/futebol/futebol-feminino/copa-america-feminina/jogo/12-07-2022/uruguai-brasil.ghtml"
+  },
+  {  
+    "title": "Rozzeira",
+    "description": "Rozzeira: a revista da mulher no futebol",
+    "image" : "https://ludopedio.org.br/wp-content/uploads/Rozzeira-1024x1024.png",
+    "link" : "https://ludopedio.org.br/rozzeira-a-revista-da-mulher-no-futebol/"
   },
 ]
