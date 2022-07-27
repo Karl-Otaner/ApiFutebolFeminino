@@ -1,23 +1,27 @@
 [
   {
+    "id": 1,
     "title": "Você sabia?",
     "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
     "image" : "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
     "link" : "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
   },
   {
+    "id": 2,
     "title": "Copa América Feminina",
     "description": "Argentina goleia Peru e consegue primeira vitória no torneio",
     "image" : "https://s2.glbimg.com/xm3HR62X0K6J4_d3FQKiXmRv4nQ=/0x0:1280x853/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/z/h/fMyFwxSACm2YRDXe4FXA/argentina.jpg",
     "link" : "https://ge.globo.com/futebol/futebol-feminino/copa-america-feminina/noticia/2022/07/12/copa-america-feminina-argentina-goleia-peru-e-consegue-primeira-vitoria-no-torneio.ghtml"
   },
   {
+    "id": 3,
     "title": "COPA AMÉRICA FEMININA",
     "description": "Seleção feminina vence o Uruguai e assume liderança isolada do Grupo B",
     "image" : "https://s2.glbimg.com/GFyWCpgj5EhDGKnnI75wXNkZiwE=/0x0:3202x2138/640x360/smart/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/z/0/BSAOO3SOOVhT2rxtWTBw/52212400221-e24e68e4e7-o.jpg",
     "link" : "https://ge.globo.com/futebol/futebol-feminino/copa-america-feminina/jogo/12-07-2022/uruguai-brasil.ghtml"
   },
   {  
+    "id": 4,
     "title": "Rozzeira",
     "description": "Rozzeira: a revista da mulher no futebol",
     "image" : "https://ludopedio.org.br/wp-content/uploads/Rozzeira-1024x1024.png",
